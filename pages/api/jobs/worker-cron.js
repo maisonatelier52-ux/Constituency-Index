@@ -6,7 +6,7 @@ export default async function handler(req, res) {
   }
 
   // Only allow Vercel cron calls
-  if (req.headers['x-vercel-cron'] !== '1') {
+if (!req.headers['x-vercel-cron']) {
     return res.status(401).json({ error: 'Unauthorized' });
   }
 
