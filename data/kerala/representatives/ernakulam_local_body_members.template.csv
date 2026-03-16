@@ -1,0 +1,5 @@
+country,full_name,office_level,office_title,jurisdiction_type,jurisdiction_code,state,district,block,ward,party,term_start,term_end,source_url,source_last_updated,status
+IN,K S Nibin,other_local_representative,District Panchayat Member,other,IN-KL-ERN-DP-D07001-001,Kerala,Ernakulam,,001,Unknown,2025-12-19,2030-12-18,https://sec.kerala.gov.in/public/elercd/download/db3d5c61-cc49-48d5-991f-d207bd159562,2026-03-12,active
+IN,M A Nithya Teacher,other_local_representative,District Panchayat Member,other,IN-KL-ERN-DP-D07001-002,Kerala,Ernakulam,,002,Unknown,2025-12-19,2030-12-18,https://sec.kerala.gov.in/public/elercd/download/db3d5c61-cc49-48d5-991f-d207bd159562,2026-03-12,active
+IN,Asha Murali,municipal_councillor,Municipal Councillor,ward,IN-KL-ERN-MUN-M07027-W021,Kerala,Ernakulam,,021,Unknown,2025-12-19,2030-12-18,https://sec.kerala.gov.in/public/elercd/download/90941035-a6b5-46e0-b20d-667aa9894a46,2026-03-12,active
+IN,Sreejith (Kuttan),municipal_councillor,Municipal Councillor,ward,IN-KL-ERN-MUN-M07027-W024,Kerala,Ernakulam,,024,Unknown,2025-12-19,2030-12-18,https://sec.kerala.gov.in/public/elercd/download/90941035-a6b5-46e0-b20d-667aa9894a46,2026-03-12,active

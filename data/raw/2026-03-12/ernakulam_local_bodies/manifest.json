@@ -1,0 +1,9 @@
+{
+  "generatedAt": "2026-03-12T18:29:48.244Z",
+  "inputPath": "/Users/sam/Documents/JMHV/Trasnocho/Journalism Society/Constituency Index/data/kerala/representatives/ernakulam_local_body_members.official.csv",
+  "rawCopyPath": "/Users/sam/Documents/JMHV/Trasnocho/Journalism Society/Constituency Index/data/raw/2026-03-12/ernakulam_local_bodies/ernakulam_local_body_members.official.csv",
+  "sourceName": "ernakulam_local_bodies",
+  "checksum": "3d95a8c595df8f54464ae5596f199216582a1384a29e285dd7d3093c0ed9be5a",
+  "normalizedPath": "/Users/sam/Documents/JMHV/Trasnocho/Journalism Society/Constituency Index/data/normalized/2026-03-12/representatives.ernakulam_local_bodies.normalized.json",
+  "qaPath": "/Users/sam/Documents/JMHV/Trasnocho/Journalism Society/Constituency Index/data/normalized/2026-03-12/representatives.ernakulam_local_bodies.qa.json"
+}

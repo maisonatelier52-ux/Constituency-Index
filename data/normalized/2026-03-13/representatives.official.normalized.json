@@ -1,0 +1,27 @@
+[
+  {
+    "canonicalId": "IN:mla:IN-KL-AC-001:example-person",
+    "fullName": "Example Person",
+    "name": "Example Person",
+    "type": "MLA",
+    "officeLevel": "mla",
+    "officeTitle": "Member of Legislative Assembly",
+    "jurisdictionType": "constituency",
+    "jurisdictionCode": "IN-KL-AC-001",
+    "country": "IN",
+    "state": "Kerala",
+    "district": "Ernakulam",
+    "block": "Kochi",
+    "ward": "WARD-12",
+    "localBodyType": "other",
+    "localBodyName": "",
+    "normalizedName": "Example Person",
+    "transliteratedName": "",
+    "party": "Example Party",
+    "termStart": "2024-01-01T00:00:00.000Z",
+    "termEnd": "2029-01-01T00:00:00.000Z",
+    "sourceUrl": "https://example.gov.in/records/123",
+    "sourceLastUpdated": "2026-03-12T00:00:00.000Z",
+    "status": "active"
+  }
+]

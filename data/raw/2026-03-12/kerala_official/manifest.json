@@ -1,0 +1,9 @@
+{
+  "generatedAt": "2026-03-12T17:28:33.045Z",
+  "inputPath": "/Users/sam/Documents/JMHV/Trasnocho/Journalism Society/Constituency Index/data/representatives/kerala_official_representatives.template.csv",
+  "rawCopyPath": "/Users/sam/Documents/JMHV/Trasnocho/Journalism Society/Constituency Index/data/raw/2026-03-12/kerala_official/kerala_official_representatives.template.csv",
+  "sourceName": "kerala_official",
+  "checksum": "367c03062da91e94a7cee18d9e92d45d5de00214935e3675959d052be2d85135",
+  "normalizedPath": "/Users/sam/Documents/JMHV/Trasnocho/Journalism Society/Constituency Index/data/normalized/2026-03-12/representatives.kerala_official.normalized.json",
+  "qaPath": "/Users/sam/Documents/JMHV/Trasnocho/Journalism Society/Constituency Index/data/normalized/2026-03-12/representatives.kerala_official.qa.json"
+}

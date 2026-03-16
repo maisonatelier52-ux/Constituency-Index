@@ -1,0 +1,313 @@
+{
+  "generatedAt": "2026-03-12T20:32:38.166302+00:00",
+  "expectedDistricts": [
+    "Alappuzha",
+    "Ernakulam",
+    "Idukki",
+    "Kannur",
+    "Kasaragod",
+    "Kollam",
+    "Kottayam",
+    "Kozhikode",
+    "Malappuram",
+    "Palakkad",
+    "Pathanamthitta",
+    "Thiruvananthapuram",
+    "Thrissur",
+    "Wayanad"
+  ],
+  "panchayatSourceDistricts": [
+    "Alappuzha",
+    "Ernakulam",
+    "Idukki",
+    "Kannur",
+    "Kasaragod",
+    "Kollam",
+    "Kottayam",
+    "Kozhikode",
+    "Malappuram",
+    "Palakkad",
+    "Thiruvananthapuram",
+    "Thrissur",
+    "Wayanad"
+  ],
+  "districtSummary": {
+    "Alappuzha": {
+      "records": 1369,
+      "localBodyTypes": [
+        "block_panchayat",
+        "district_panchayat",
+        "grama_panchayat",
+        "municipality"
+      ],
+      "countsByLocalBodyType": {
+        "block_panchayat": 168,
+        "district_panchayat": 23,
+        "grama_panchayat": 974,
+        "municipality": 204
+      },
+      "hasPanchayatRows": true,
+      "hasMunicipalRows": true,
+      "status": "pass",
+      "issues": []
+    },
+    "Ernakulam": {
+      "records": 2055,
+      "localBodyTypes": [
+        "block_panchayat",
+        "corporation",
+        "district_panchayat",
+        "grama_panchayat",
+        "municipality"
+      ],
+      "countsByLocalBodyType": {
+        "block_panchayat": 201,
+        "corporation": 74,
+        "district_panchayat": 27,
+        "grama_panchayat": 1334,
+        "municipality": 419
+      },
+      "hasPanchayatRows": true,
+      "hasMunicipalRows": true,
+      "status": "pass",
+      "issues": []
+    },
+    "Idukki": {
+      "records": 976,
+      "localBodyTypes": [
+        "block_panchayat",
+        "district_panchayat",
+        "grama_panchayat",
+        "municipality"
+      ],
+      "countsByLocalBodyType": {
+        "block_panchayat": 110,
+        "district_panchayat": 17,
+        "grama_panchayat": 779,
+        "municipality": 70
+      },
+      "hasPanchayatRows": true,
+      "hasMunicipalRows": true,
+      "status": "pass",
+      "issues": []
+    },
+    "Kannur": {
+      "records": 1659,
+      "localBodyTypes": [
+        "block_panchayat",
+        "corporation",
+        "district_panchayat",
+        "grama_panchayat",
+        "municipality"
+      ],
+      "countsByLocalBodyType": {
+        "block_panchayat": 160,
+        "corporation": 56,
+        "district_panchayat": 25,
+        "grama_panchayat": 1141,
+        "municipality": 277
+      },
+      "hasPanchayatRows": true,
+      "hasMunicipalRows": true,
+      "status": "pass",
+      "issues": []
+    },
+    "Kasaragod": {
+      "records": 862,
+      "localBodyTypes": [
+        "block_panchayat",
+        "district_panchayat",
+        "grama_panchayat",
+        "municipality"
+      ],
+      "countsByLocalBodyType": {
+        "block_panchayat": 90,
+        "district_panchayat": 18,
+        "grama_panchayat": 643,
+        "municipality": 111
+      },
+      "hasPanchayatRows": true,
+      "hasMunicipalRows": true,
+      "status": "pass",
+      "issues": []
+    },
+    "Kollam": {
+      "records": 1465,
+      "localBodyTypes": [
+        "block_panchayat",
+        "corporation",
+        "district_panchayat",
+        "grama_panchayat",
+        "municipality"
+      ],
+      "countsByLocalBodyType": {
+        "block_panchayat": 164,
+        "corporation": 55,
+        "district_panchayat": 25,
+        "grama_panchayat": 1092,
+        "municipality": 129
+      },
+      "hasPanchayatRows": true,
+      "hasMunicipalRows": true,
+      "status": "pass",
+      "issues": []
+    },
+    "Kottayam": {
+      "records": 1407,
+      "localBodyTypes": [
+        "block_panchayat",
+        "district_panchayat",
+        "grama_panchayat",
+        "municipality"
+      ],
+      "countsByLocalBodyType": {
+        "block_panchayat": 155,
+        "district_panchayat": 23,
+        "grama_panchayat": 1030,
+        "municipality": 199
+      },
+      "hasPanchayatRows": true,
+      "hasMunicipalRows": true,
+      "status": "pass",
+      "issues": []
+    },
+    "Kozhikode": {
+      "records": 1813,
+      "localBodyTypes": [
+        "block_panchayat",
+        "corporation",
+        "district_panchayat",
+        "grama_panchayat",
+        "municipality"
+      ],
+      "countsByLocalBodyType": {
+        "block_panchayat": 179,
+        "corporation": 75,
+        "district_panchayat": 27,
+        "grama_panchayat": 1280,
+        "municipality": 252
+      },
+      "hasPanchayatRows": true,
+      "hasMunicipalRows": true,
+      "status": "pass",
+      "issues": []
+    },
+    "Malappuram": {
+      "records": 2708,
+      "localBodyTypes": [
+        "block_panchayat",
+        "district_panchayat",
+        "grama_panchayat",
+        "municipality"
+      ],
+      "countsByLocalBodyType": {
+        "block_panchayat": 248,
+        "district_panchayat": 33,
+        "grama_panchayat": 1952,
+        "municipality": 475
+      },
+      "hasPanchayatRows": true,
+      "hasMunicipalRows": true,
+      "status": "pass",
+      "issues": []
+    },
+    "Palakkad": {
+      "records": 1918,
+      "localBodyTypes": [
+        "block_panchayat",
+        "district_panchayat",
+        "grama_panchayat",
+        "municipality"
+      ],
+      "countsByLocalBodyType": {
+        "block_panchayat": 196,
+        "district_panchayat": 31,
+        "grama_panchayat": 1490,
+        "municipality": 201
+      },
+      "hasPanchayatRows": true,
+      "hasMunicipalRows": true,
+      "status": "pass",
+      "issues": []
+    },
+    "Pathanamthitta": {
+      "records": 126,
+      "localBodyTypes": [
+        "municipality"
+      ],
+      "countsByLocalBodyType": {
+        "municipality": 126
+      },
+      "hasPanchayatRows": false,
+      "hasMunicipalRows": true,
+      "status": "warn",
+      "issues": [
+        "missing_official_panchayat_source"
+      ]
+    },
+    "Thiruvananthapuram": {
+      "records": 1694,
+      "localBodyTypes": [
+        "block_panchayat",
+        "corporation",
+        "district_panchayat",
+        "grama_panchayat",
+        "municipality"
+      ],
+      "countsByLocalBodyType": {
+        "block_panchayat": 165,
+        "corporation": 98,
+        "district_panchayat": 28,
+        "grama_panchayat": 1261,
+        "municipality": 142
+      },
+      "hasPanchayatRows": true,
+      "hasMunicipalRows": true,
+      "status": "pass",
+      "issues": []
+    },
+    "Thrissur": {
+      "records": 2063,
+      "localBodyTypes": [
+        "block_panchayat",
+        "corporation",
+        "district_panchayat",
+        "grama_panchayat",
+        "municipality"
+      ],
+      "countsByLocalBodyType": {
+        "block_panchayat": 227,
+        "corporation": 56,
+        "district_panchayat": 30,
+        "grama_panchayat": 1484,
+        "municipality": 266
+      },
+      "hasPanchayatRows": true,
+      "hasMunicipalRows": true,
+      "status": "pass",
+      "issues": []
+    },
+    "Wayanad": {
+      "records": 570,
+      "localBodyTypes": [
+        "block_panchayat",
+        "district_panchayat",
+        "grama_panchayat",
+        "municipality"
+      ],
+      "countsByLocalBodyType": {
+        "block_panchayat": 45,
+        "district_panchayat": 17,
+        "grama_panchayat": 444,
+        "municipality": 64
+      },
+      "hasPanchayatRows": true,
+      "hasMunicipalRows": true,
+      "status": "pass",
+      "issues": []
+    }
+  },
+  "warnings": [
+    "Pathanamthitta"
+  ]
+}

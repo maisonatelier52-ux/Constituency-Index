@@ -1,0 +1,68 @@
+{
+  "by_jurisdiction_code": {
+    "IN-KL-ERN-BP-B07062-001": {
+      "normalized_name": "അപ്പുമാരൻ",
+      "transliterated_name": "Appumaran"
+    },
+    "IN-KL-ERN-BP-B07062-003": {
+      "normalized_name": "ജോർജ് വർഗീസ്",
+      "transliterated_name": "George Varghese"
+    },
+    "IN-KL-ERN-BP-B07062-005": {
+      "normalized_name": "ഷൈല ടീച്ചർ",
+      "transliterated_name": "Shyla Teacher"
+    },
+    "IN-KL-ERN-GP-G07027-W001": {
+      "normalized_name": "ലിജി ഓഗസ്റ്റിൻ",
+      "local_body_name": "ചൂർണിക്കര",
+      "transliterated_name": "Liji Augustine"
+    },
+    "IN-KL-ERN-GP-G07027-W005": {
+      "normalized_name": "ഷിജി ജോഷി",
+      "local_body_name": "ചൂർണിക്കര",
+      "transliterated_name": "Shiji Joshy"
+    },
+    "IN-KL-ERN-GP-G07027-W014": {
+      "normalized_name": "ബീനാ ബാബു",
+      "local_body_name": "ചൂർണിക്കര",
+      "transliterated_name": "Beena Babu"
+    },
+    "IN-KL-ERN-MUN-M07027-W002": {
+      "normalized_name": "ബിന്ദു സജീവ്",
+      "local_body_name": "നോർത്ത് പറവൂർ",
+      "transliterated_name": "Bindu Sajeev"
+    },
+    "IN-KL-ERN-MUN-M07027-W010": {
+      "normalized_name": "അനിത ഷിജു",
+      "local_body_name": "നോർത്ത് പറവൂർ",
+      "transliterated_name": "Anita Shiju"
+    },
+    "IN-KL-ERN-MUN-M07027-W021": {
+      "normalized_name": "ആശ മുരളി",
+      "local_body_name": "നോർത്ത് പറവൂർ",
+      "transliterated_name": "Asha Murali"
+    },
+    "IN-KL-ERN-MUN-M07027-W030": {
+      "normalized_name": "ഷൈല മനോജ്",
+      "local_body_name": "നോർത്ത് പറവൂർ",
+      "transliterated_name": "Shyla Manoj"
+    }
+  },
+  "by_local_body_name": {
+    "േനാർത്ത് പറവൂർ": {
+      "local_body_name": "നോർത്ത് പറവൂർ"
+    },
+    "നോർത് പറവൂർ": {
+      "local_body_name": "നോർത്ത് പറവൂർ"
+    },
+    "ചൂർı ിĎ ര": {
+      "local_body_name": "ചൂർണിക്കര"
+    },
+    "ചൂര്ണിക്കര": {
+      "local_body_name": "ചൂർണിക്കര"
+    },
+    "ചൂര്നിക്കര": {
+      "local_body_name": "ചൂർണിക്കര"
+    }
+  }
+}

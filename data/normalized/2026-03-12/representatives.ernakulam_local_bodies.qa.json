@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-03-12T18:29:48.243Z",
+  "totals": {
+    "records": 2055,
+    "duplicateCanonicalIds": 0,
+    "invalidDateRanges": 0,
+    "badJurisdictionMappings": 0
+  },
+  "requiredFieldNullRatePercent": 0,
+  "sourceUrlFailures": [],
+  "pass": true,
+  "rejectReasons": []
+}

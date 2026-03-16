@@ -1,0 +1,9 @@
+{
+  "generatedAt": "2026-03-13T11:51:50.902Z",
+  "inputPath": "C:\\Users\\progr\\OneDrive\\Desktop\\Dinu\\Constituency Index\\data\\representatives\\official_representatives.csv",
+  "rawCopyPath": "C:\\Users\\progr\\OneDrive\\Desktop\\Dinu\\Constituency Index\\data\\raw\\2026-03-13\\official\\official_representatives.csv",
+  "sourceName": "official",
+  "checksum": "f7010c82cf6a81fa6d70ef13ebce01ef826702ff424dc5aad8ac7133f6e8083a",
+  "normalizedPath": "C:\\Users\\progr\\OneDrive\\Desktop\\Dinu\\Constituency Index\\data\\normalized\\2026-03-13\\representatives.official.normalized.json",
+  "qaPath": "C:\\Users\\progr\\OneDrive\\Desktop\\Dinu\\Constituency Index\\data\\normalized\\2026-03-13\\representatives.official.qa.json"
+}

@@ -1,0 +1,2 @@
+country,full_name,office_level,office_title,jurisdiction_type,jurisdiction_code,state,district,block,ward,party,term_start,term_end,source_url,source_last_updated,status
+IN,Example Person,mla,Member of Legislative Assembly,constituency,IN-KL-AC-001,Kerala,Ernakulam,Kochi,WARD-12,Example Party,2024-01-01,2029-01-01,https://example.gov.in/records/123,2026-03-12,active

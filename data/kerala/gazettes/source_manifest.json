@@ -1,0 +1,19 @@
+{
+  "municipal": "https://sec.kerala.gov.in/public/elercd/download/90941035-a6b5-46e0-b20d-667aa9894a46",
+  "panchayat": {
+    "Thiruvananthapuram": "https://sec.kerala.gov.in/public/elercd/download/73e51a0b-aeb0-4d75-9f21-ef196bc546d0",
+    "Kollam": "https://sec.kerala.gov.in/public/elercd/download/1270f50d-f3b5-4e5d-bc2f-01fb29cf0d23",
+    "Alappuzha": "https://sec.kerala.gov.in/public/elercd/download/3c193cbf-ea41-4a78-93e6-ee30b6c39192",
+    "Kottayam": "https://sec.kerala.gov.in/public/elercd/download/71b47bb9-cdaa-4916-b058-91cd375e1f36",
+    "Idukki": "https://sec.kerala.gov.in/public/elercd/download/0222b19d-13d0-4c40-aa8c-2a2dfff57c84",
+    "Ernakulam": "https://sec.kerala.gov.in/public/elercd/download/db3d5c61-cc49-48d5-991f-d207bd159562",
+    "Thrissur": "https://sec.kerala.gov.in/public/elercd/download/694583b1-463f-435c-b7c6-0ed9891ce124",
+    "Palakkad": "https://sec.kerala.gov.in/public/elercd/download/05678876-59b8-4014-86e6-29fd0bed711b",
+    "Malappuram": "https://sec.kerala.gov.in/public/elercd/download/f4b20c56-eefe-459a-b178-8cc63d7b6ac8",
+    "Kozhikode": "https://sec.kerala.gov.in/public/elercd/download/890f6df7-5efd-4f1c-9bb8-2c352c0251b9",
+    "Wayanad": "https://sec.kerala.gov.in/public/elercd/download/d282bd2d-59b1-4f84-a906-eff748bcb9e6",
+    "Kannur": "https://sec.kerala.gov.in/public/elercd/download/3f308e6a-8686-48cd-ae23-3880285bfe00",
+    "Kasaragod": "https://sec.kerala.gov.in/public/elercd/download/e0fd90af-a79a-4761-944f-7d64954f1321"
+  },
+  "fallback_current_members": "https://sec.kerala.gov.in/public/elercd/download/23cc3170-ceef-4030-a4a2-322f1648a4aa"
+}

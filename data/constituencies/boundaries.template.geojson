@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "code": "AC-0082",
+        "name": "Kochi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [76.25, 9.95],
+            [76.30, 9.95],
+            [76.30, 9.90],
+            [76.25, 9.90],
+            [76.25, 9.95]
+          ]
+        ]
+      }
+    }
+  ]
+}

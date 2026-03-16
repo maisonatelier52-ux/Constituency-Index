@@ -1,0 +1,125 @@
+{
+  "generated_at": "2026-03-12T00:00:00.000Z",
+  "policy": {
+    "primary_sources_only_for_baseline": true,
+    "secondary_sources_enrichment_only": true,
+    "record_level_source_url_required": true
+  },
+  "sources": [
+    {
+      "source_name": "Election Commission of India",
+      "license": "Public government data (verify per dataset)",
+      "refresh_frequency": "as-published",
+      "owner": "Election Commission of India",
+      "url": "https://eci.gov.in/",
+      "tier": "primary"
+    },
+    {
+      "source_name": "Lok Sabha Secretariat",
+      "license": "Public government data (verify per dataset)",
+      "refresh_frequency": "as-published",
+      "owner": "Lok Sabha Secretariat",
+      "url": "https://loksabha.nic.in/",
+      "tier": "primary"
+    },
+    {
+      "source_name": "Rajya Sabha Secretariat",
+      "license": "Public government data (verify per dataset)",
+      "refresh_frequency": "as-published",
+      "owner": "Rajya Sabha Secretariat",
+      "url": "https://rajyasabha.nic.in/",
+      "tier": "primary"
+    },
+    {
+      "source_name": "State Election Commission Portals",
+      "license": "Public government data (verify per state)",
+      "refresh_frequency": "as-published",
+      "owner": "State Election Commissions",
+      "url": "https://sec.<state>.gov.in/",
+      "tier": "primary"
+    },
+    {
+      "source_name": "data.gov.in",
+      "license": "Open Government Data (verify dataset)",
+      "refresh_frequency": "dataset-specific",
+      "owner": "Government of India",
+      "url": "https://data.gov.in/",
+      "tier": "primary"
+    },
+    {
+      "source_name": "Civil Society Datasets",
+      "license": "Varies",
+      "refresh_frequency": "dataset-specific",
+      "owner": "Third-party organizations",
+      "url": "https://example.org/",
+      "tier": "secondary_enrichment_only"
+    },
+    {
+      "source_name": "Kerala Legislative Assembly",
+      "license": "Public government data (verify per dataset)",
+      "refresh_frequency": "as-published",
+      "owner": "Kerala Legislative Assembly Secretariat",
+      "url": "https://niyamasabha.nic.in/",
+      "tier": "primary",
+      "state": "Kerala",
+      "datasets": [
+        "kerala_mlas",
+        "kerala_assembly_constituencies"
+      ]
+    },
+    {
+      "source_name": "Kerala State Election Commission",
+      "license": "Public government data (verify per dataset)",
+      "refresh_frequency": "as-published",
+      "owner": "State Election Commission, Kerala",
+      "url": "https://sec.kerala.gov.in/",
+      "tier": "primary",
+      "state": "Kerala",
+      "datasets": [
+        "kerala_local_body_members",
+        "kerala_local_body_results",
+        "kerala_wards"
+      ]
+    },
+    {
+      "source_name": "Kerala Delimitation Commission",
+      "license": "Public government data (verify per dataset)",
+      "refresh_frequency": "as-published",
+      "owner": "Local Self Government Department, Government of Kerala",
+      "url": "https://delimitation.lsgkerala.gov.in/",
+      "tier": "primary",
+      "state": "Kerala",
+      "datasets": [
+        "kerala_local_body_boundaries",
+        "kerala_ward_boundaries"
+      ]
+    },
+    {
+      "source_name": "Government of Kerala Portal",
+      "license": "Public government data (verify per dataset)",
+      "refresh_frequency": "as-published",
+      "owner": "Government of Kerala",
+      "url": "https://kerala.gov.in/",
+      "tier": "primary",
+      "state": "Kerala",
+      "datasets": [
+        "kerala_ministers"
+      ]
+    },
+    {
+      "source_name": "Kerala Local Self Government Department",
+      "license": "Public government data (verify per dataset)",
+      "refresh_frequency": "as-published",
+      "owner": "Local Self Government Department, Government of Kerala",
+      "url": "https://lsgkerala.gov.in/",
+      "tier": "primary",
+      "state": "Kerala",
+      "datasets": [
+        "kerala_panchayats",
+        "kerala_municipalities",
+        "kerala_blocks",
+        "kerala_development_indicators"
+      ]
+    }
+  ]
+}
